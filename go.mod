@@ -1,4 +1,4 @@
-module github.com/pilu/fresh
+module github.com/phanletrunghieu/fresh
 
 go 1.13
 
