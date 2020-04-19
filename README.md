@@ -5,6 +5,8 @@
 [![Join the chat at https://gitter.im/pilu/fresh](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/pilu/fresh?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/pilu/fresh.svg?branch=master)](https://travis-ci.org/pilu/fresh)
 
+It has been forked from [fresh](https://github.com/gravityblast/fresher) because the author [Andrea Franz](http://gravityblast.com) set it as unmaintained.
+
 Fresh is a command line tool that builds and (re)starts your web application everytime you save a Go or template file.
 
 If the web framework you are using supports the Fresh runner, it will show build errors on your browser.
@@ -50,15 +52,6 @@ Here is a sample config file with the default settings:
     log_color_runner:  green
     log_color_watcher: magenta
     log_color_app:
-
-
-## Author
-
-* [Andrea Franz](http://gravityblast.com)
-
-## More
-
-* [Mailing List](https://groups.google.com/d/forum/golang-fresh)
 
 ## Contributing
 
